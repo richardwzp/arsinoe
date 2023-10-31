@@ -1,0 +1,20 @@
+
+@media screen and (max-width: 1068px) {
+    .introPicture {
+        position: relative
+    }
+    .textBlockContainer {
+        margin-top: 50%;
+        z-index: 1;
+    }
+
+    .photoContainer {
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, 0);
+        z-index: 0;
+        opacity: 0.6;
+
+    }
+}
+

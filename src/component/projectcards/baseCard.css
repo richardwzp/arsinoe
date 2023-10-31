@@ -1,0 +1,15 @@
+
+.cardContainer {
+    color: white;
+    background-color: black;
+    position: relative;
+}
+
+.contentContainer {
+    padding: 30px;
+}
+
+.innerText {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.5);
+}

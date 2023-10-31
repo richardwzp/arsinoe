@@ -1,0 +1,22 @@
+.journey-card-container {
+    line-height: 2;
+}
+
+.title-container {
+    font-family: "Noto Sans Batak", serif;
+    font-size: 300%;
+    padding-left: 0;
+}
+
+.content-container {
+    padding-left: 9px;
+}
+
+.company-name-container {
+   text-decoration: underline;
+}
+
+.time-container {
+    font-style: italic;
+    color: rgb(169, 202, 204);
+}

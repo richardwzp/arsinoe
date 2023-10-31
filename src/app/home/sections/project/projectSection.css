@@ -1,0 +1,12 @@
+
+.projectSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.projectCard {
+    flex-grow: 1;
+    padding: 10px;
+}
